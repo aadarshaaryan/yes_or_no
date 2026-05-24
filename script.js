@@ -11,7 +11,7 @@ function calc() {
 
     sum += time;
 
-    if(sum%4 == 0){
+    if(sum%2 == 0){
         p.innerHTML = "YES"
         
     }else{
