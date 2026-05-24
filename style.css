@@ -25,6 +25,11 @@ button{
     border: none;
 }
 
+button:hover{
+    border: 2px solid rgb(0, 255, 0);
+    box-shadow: 0 0 30px rgb(0, 255, 0);
+}
+
 .name{
     position: absolute;
     bottom: 70px;
